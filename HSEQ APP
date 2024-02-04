@@ -1,0 +1,56 @@
+            ul.magazine-right
+              li.article
+                a.ease-out4(href="#")
+                  img.ease-out4(src="https://notbigmuzzy.github.io/codepen/user.jpg")
+                  h2.ease-out4 New York's Vibrant Street Art
+                  p.ease-out4 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.
+              li.article
+                a.ease-out4(href="#")
+                  img.ease-out4(src="https://notbigmuzzy.github.io/codepen/user.jpg")
+                  h2.ease-out4 New York's Vibrant Street Art
+                  p.ease-out4 Magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+              li.article
+                a.ease-out4(href="#")
+                  img.ease-out4(src="https://notbigmuzzy.github.io/codepen/user.jpg")
+                  h2.ease-out4 New York's Vibrant Street Art
+                  p.ease-out4 Magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+            div(style="clear: both")
+
+      div.magazine-read
+        div.read-body
+          div.read-head
+            img.read-user-pic(src="https://notbigmuzzy.github.io/codepen/user.jpg")
+            span.read-user-name Seth Gibbon
+          h2.read-title New York's Vibrant Street Art
+          span.read-share 
+            i.fa.fa-heart
+            b 27 likes 
+            | // 6 min read
+          p.teaser-text Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non oident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+          div.read-pic
+            img(src="https:https://playground.com/post/cls7cfm970dqqs601phff3g1j")
+
+          p Ex eros debet nostrud eos, ex reque bonorum voluptaria mei, eum ut tollit imperdiet referrentur. Ex ius nisl probatus voluptatibus. Menandri definiebas ius cu. Quo ad solum ullum, est no agam convenire dissentiet. Graece viderer iracundia ut sed, cu omnes mediocrem elaboraret pri. Ad viderer ocurreret intellegam ius, at vix voluptatum dissentias. Veniam similique signiferumque ex pri, eu alia iisque eum.
+
+          p Sumo menandri senserit ea eam. Eam labitur inermis in, vim ex nobis malorum fabulas, his te iudico tacimates. Indoctum persecuti vis ex, quas regione eripuit sed ex. Usu ne indoctum definiebas necessitatibus. Sed summo iriure euripidis et, dicam quidam vel in. Habeo pericula mea at.
+
+          p.quote Vis choro tincidunt inciderint at. Doming fuisset constituam nec ne, usu exerci vivendum ea, probo legere abhorreant vix ei. Viris regione dolorum pe.
+
+          p Ne eam ludus laudem, scripta deserunt et usu. Soleat insolens no pro. No unum vulputate pro, dicant antiopam volutpat quo ea, vis choro tincidunt inciderint at. Consequat suscipiantur vituperatoribus id ius, sit in mutat harum dicam.
+
+          p Id probatus qualisque pro. Et laudem molestie intellegebat eos, sonet placerat petentium ius cu, id quo dissentias referrentur. Mel te tation nemore consequuntur. Nam et lobortis maiestatis constituam, his eleifend reprehendunt at, id nam animal commodo. Doming fuisset constituam nec ne, usu exerci vivendum ea, probo legere abhorreant vix ei. Viris regione dolorum per no.
+        div.bottom-bar.ease-out4
+          ul.social-icons
+            li
+              a(href="#")
+                i.ease-out4.fa.fa-facebook
+            li
+              a(href="#")
+                i.ease-out4.fa.fa-twitter
+            li
+              a(href="#")
+                i.ease-out4.fa.fa-linkedin
+            li
+              a(href="#")
+                i.ease-out4.fa.fa-rss
